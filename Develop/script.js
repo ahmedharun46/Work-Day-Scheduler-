@@ -1,7 +1,14 @@
-var dailytasks=[]
+//Current Date
+$("#currentDay").text(moment().format('dddd, MMMM Do'));
+//Current time hour
 var currentHour= moment().format('h');
 console.log(currentHour);
-
+$(".saveBtn").on("click",function(){
+    var userEntry = $(this).siblings("textarea").val()
+    var hour = $(this).parent().attr("id")
+    console.log(userEntry);
+    console.log(hour);
+})
 
 
 
