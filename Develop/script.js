@@ -8,10 +8,17 @@ $(".saveBtn").on("click",function(){
     var hour = $(this).parent().attr("id")
     console.log(userEntry);
     console.log(hour);
+    localStorage.setItem(hour,userEntry)
 })
 
 
 
+
+for (i=9;i<18;i++){
+    var storedData = localStorage.getItem("hour-"+i) || ""
+    console.log(storedData)
+    $("#hour-"+i).children("textarea").val(storedData)
+}
 
 
 
