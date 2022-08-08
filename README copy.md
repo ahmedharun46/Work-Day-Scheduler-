@@ -1,4 +1,11 @@
-Git Hub Link:
+Project Title: Work Day Schedule
+
+What was my motivation:To apply Jquery,HTMl,CSS, Bootstrap and Javascript elements to create a work day scheudler.Also this gives me another project I can show off during my interview process in the future.
+
+What I learned: Getting better with Jquery elements and how to use them. Using bootstrap for css and HTML purposes
+
+
+Git Hub Link: https://github.com/ahmedharun46/Work-Day-Scheduler-
 
 Url Link:
 
