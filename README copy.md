@@ -7,7 +7,7 @@ What I learned: Getting better with Jquery elements and how to use them. Using b
 
 Git Hub Link: https://github.com/ahmedharun46/Work-Day-Scheduler-
 
-Url Link:
+Url Link: https://ahmedharun46.github.io/Work-Day-Scheduler-/
 
 
 
